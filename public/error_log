@@ -1,0 +1,1 @@
+[17-Jul-2024 07:18:50 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 400572416 bytes) in /mnt/home2/daratechbd/public_html/storage/framework/views/f316b42e0fcfad069603554b9ca502b8499208fa.php on line 81
